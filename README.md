@@ -1,0 +1,1 @@
+Settings for Visual Studio Code used internally at flomit.
