@@ -31,6 +31,11 @@
   "html.format.maxPreserveNewLines": 1,
   "python.pythonPath": "python3",
   "python.formatting.formatOnSave": true,
+  "python.formatting.provider": "yapf",
+  "python.formatting.yapfArgs": [
+    "--style",
+    "{based_on_style: pep8, column_limit: 120}"
+  ],
   "debug.openExplorerOnEnd": true,
   "debug.inlineValues": true,
   "workbench.iconTheme": "vs-seti"
