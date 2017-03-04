@@ -1,0 +1,37 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "window.reopenFolders": "all",
+  "window.restoreFullscreen": true,
+  "window.openFoldersInNewWindow": "on",
+  "window.openFilesInNewWindow": "on",
+  "window.newWindowDimensions": "maximized",
+  "files.trimTrailingWhitespace": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.associations": {
+    "*.wsgi": "python"
+  },
+  "files.hotExit": "onExitAndWindowClose",
+  "explorer.openEditors.visible": 0,
+  "css.lint.universalSelector": "warning",
+  "css.lint.zeroUnits": "warning",
+  "css.lint.important": "warning",
+  "css.lint.duplicateProperties": "warning",
+  "scss.lint.universalSelector": "warning",
+  "scss.lint.zeroUnits": "warning",
+  "scss.lint.important": "warning",
+  "scss.lint.duplicateProperties": "warning",
+  "html.format.enable": false,
+  "html.format.wrapLineLength": 0,
+  "html.format.indentInnerHtml": true,
+  "html.format.maxPreserveNewLines": 1,
+  "python.pythonPath": "python3",
+  "python.formatting.formatOnSave": true,
+  "debug.openExplorerOnEnd": true,
+  "debug.inlineValues": true,
+  "workbench.iconTheme": "vs-seti"
+}
